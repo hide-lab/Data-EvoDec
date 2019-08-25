@@ -1,7 +1,7 @@
 # Data-EvoDec
 Data for the The Evolution of Deception
 
-This is the data resulted form our simulation.
+This is the data resulted from our simulation.
 
 The csv. files contain the long-run average frequency of each PGG.
 
